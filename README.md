@@ -6,16 +6,6 @@ Java, MYSQL, React/JavaScript, HTML/CSS/Bootstrap, Spring, Agile, Resp-API, Spri
 - 📫 How to reach me: 22CodingSm@gmail.com
 - ⚡ Fun fact: I left my job of 10 years to hit the road full-time in my VW Campervan for 2 years! 
 
-## ✉️ Find me on:
- 
-<p align="center">
- <a href="https://github.com/KyloRich" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://linkedin.com/kyle-richardson-829189198" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:22Codingsm@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
-
- 
-
 ## 🧰 Languages and Tools:
 <p align="center">
  <i class="fab fa-java"></i>
