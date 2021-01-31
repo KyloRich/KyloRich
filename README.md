@@ -31,6 +31,10 @@ Java, MYSQL, React/JavaScript, HTML/CSS/Bootstrap, Spring, Agile, Resp-API, Spri
   
   <img width="100" height="100"   class="js-search-result-thumbnail responsive-img" src="https://as1.ftcdn.net/jpg/02/76/18/10/500_F_276181097_cmQ32J5NyNhRVvpOfJ3P1277NbHedSk5.jpg"  >
   
+  <img width="100" height="100"  id="details-enlarged-image" class="js-search-result-thumbnail responsive-img" src="https://as1.ftcdn.net/jpg/01/39/48/46/500_F_139484626_cqPNhvfRtWrNMNmuSeBMBiCUkPJTzgjS.jpg" >
+  
+ <img width="100" height="100" id="details-enlarged-image" class="js-search-result-thumbnail responsive-img" src="https://as2.ftcdn.net/jpg/03/22/95/69/500_F_322956978_9ESBVewTYdhSu9G6qf2JazX9tUsdh53g.jpg"  >
+  
 
 </p>
 
