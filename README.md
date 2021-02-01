@@ -27,9 +27,8 @@ Java, MYSQL, React/JavaScript, HTML/CSS/Bootstrap, Spring, Agile, Resp-API, Spri
 
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KyloRich&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KyloRich&show_icons=true&theme=chartreuse-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyloRich&theme=tokyonight)
-
 
 <!--
 **KyloRich/KyloRich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
