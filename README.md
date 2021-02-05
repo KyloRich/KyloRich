@@ -1,10 +1,8 @@
 ### I am Squirrel Master! 
 
 - 🔭 Presently seeking entry-level Software Engineer position
-- 🌱 My skills: 
-Java, MYSQL, React/JavaScript, HTML/CSS/Bootstrap, Spring, Agile, Resp-API, Spring-Boot, AWS.
-- 📫 How to reach me: 22CodingSm@gmail.com
-- ⚡ Fun fact: I left my job of 10 years to hit the road full-time in my VW Campervan for 2 years! 
+- 📫 Contact: 22CodingSm@gmail.com
+- ⚡ Fun fact: I left my job of 10 years to hit the road full-time in my VW Campervan full-time! 
 
 ## 🧰 Languages and Tools:
 <p align="center">
