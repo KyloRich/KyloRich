@@ -16,7 +16,7 @@
   
   <img  width="100" height="100" class="js-search-result-thumbnail responsive-img" src="https://as1.ftcdn.net/jpg/03/04/97/12/500_F_304971218_JOSk82jpa257LXvZ0l6QLS2H7cZmUBKe.jpg" >
   
-  <img width="100" height="100"   class="js-search-result-thumbnail responsive-img" src="https://as1.ftcdn.net/jpg/02/76/18/10/500_F_276181097_cmQ32J5NyNhRVvpOfJ3P1277NbHedSk5.jpg"  >
+<img width="100" height="100" src="https://www.flaticon.com/premium-icon/icons/svg/2974/2974331.svg" alt="Agile premium icon" title="Agile premium icon" class="loaded">
   
   <img width="100" height="100"  id="details-enlarged-image" class="js-search-result-thumbnail responsive-img" src="https://as1.ftcdn.net/jpg/01/39/48/46/500_F_139484626_cqPNhvfRtWrNMNmuSeBMBiCUkPJTzgjS.jpg" >
   
