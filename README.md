@@ -8,9 +8,9 @@ Java, MYSQL, React/JavaScript, HTML/CSS/Bootstrap, Spring, Agile, Resp-API, Spri
 
 ## 🧰 Languages and Tools:
 <p align="center">
- <i class="fab fa-java"></i>
+ 
   
-  <img width="100" height="100" src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1612082194~hmac=c48385c679ba174d8123208268629b4c"  >
+   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="100">
   
