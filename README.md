@@ -11,10 +11,9 @@ Java, MYSQL, React/JavaScript, HTML/CSS/Bootstrap, Spring, Agile, Resp-API, Spri
  
   
    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="100">
+ <img alt="MySQL Logo icon" src="https://img.icons8.com/ios-filled/344/mysql-logo.png" lazy="loaded"></img>
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="100">
-  
-  <img width="100" height="100" src="https://www.flaticon.com/svg/vstatic/svg/919/919836.svg?token=exp=1612082603~hmac=e089e702ecc939cd29513ee84139e295" alt="Mysql free icon" title="Mysql free icon" class="loaded">
+ 
   
   <img  width="100" height="100" class="js-search-result-thumbnail responsive-img" src="https://as1.ftcdn.net/jpg/03/04/97/12/500_F_304971218_JOSk82jpa257LXvZ0l6QLS2H7cZmUBKe.jpg" >
   
