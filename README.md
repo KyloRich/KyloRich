@@ -11,7 +11,7 @@ Java, MYSQL, React/JavaScript, HTML/CSS/Bootstrap, Spring, Agile, Resp-API, Spri
  
   
    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="100">
- <img alt="MySQL Logo icon" src="https://img.icons8.com/ios-filled/344/mysql-logo.png" lazy="loaded"></img>
+ <img alt="MySQL Logo icon" src="https://img.icons8.com/ios-filled/344/mysql-logo.png" lazy="loaded"  height="100"> 
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
  
   
