@@ -2,7 +2,7 @@
 
 - 🔭 Presently seeking entry-level Software Engineer position
 - 📫 Contact: 22CodingSm@gmail.com
-- ⚡ Fun fact: I left my job of 10 years to hit the road full-time in my VW Campervan full-time! 
+- ⚡ Ask me about my time spoent traveling full-time! 
 
 ## 🧰 Languages and Tools:
 <p align="center">
