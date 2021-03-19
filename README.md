@@ -1,4 +1,4 @@
-### I am Squirrel Master! 
+### Curious Coding Squirrel
 
 - 🔭 Presently seeking entry-level Software Engineer position
 - 📫 Contact: 22CodingSm@gmail.com
