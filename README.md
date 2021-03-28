@@ -2,7 +2,7 @@
 
 - 🔭 Presently seeking entry-level Software Engineer position
 - 📫 Contact: 22CodingSm@gmail.com
-- ⚡ Ask me about my time speent traveling full-time! 
+- ⚡ Ask me about my time spent traveling full-time! 
 
 ## 🧰 Languages and Tools:
 <p align="center">
