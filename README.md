@@ -1,7 +1,7 @@
 ### Curious Coding Squirrel
 
-- 🔭 Presently seeking entry-level Software Engineer position
-- 📫 Contact: 
+- 🔭 Presently vibing. 
+- 📫 Contact: 911
 - ⚡ Ask me about my time spent traveling full-time! 
 
 ## 🧰 Languages and Tools:
