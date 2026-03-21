@@ -1,7 +1,7 @@
 ### Curious Coding Squirrel
 
 - 🔭 Presently seeking entry-level Software Engineer position
-- 📫 Contact: 22CodingSm@gmail.com
+- 📫 Contact: 
 - ⚡ Ask me about my time spent traveling full-time! 
 
 ## 🧰 Languages and Tools:
