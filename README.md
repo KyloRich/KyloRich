@@ -1,12 +1,19 @@
-### Curious Coding Squirrel
+###  Coding Squirrel
 
-- 🔭 Presently vibing. 
-- 📫 Contact: 911
-- ⚡ Ask me about my time spent traveling full-time! 
+- 🔭 Presently Developing a Game with TTO
+
+
 
 ## 🧰 Languages and Tools:
 <p >
-
+ <img alt="Static Badge" src="https://img.shields.io/badge/Java-Enterprise-blue?style=for-the-badge" >
+- <img alt="Static Badge" src="https://img.shields.io/badge/REACT-JavaScript-8A2BE2" >
+- <img alt="Static Badge" src="https://img.shields.io/badge/SQL Database Development-brown" >
+- <img alt="Static Badge" src="https://img.shields.io/badge/HTML-CSS--Bootstrap-brightgreen" >
+- <img alt="Static Badge" src="https://img.shields.io/badge/Agile Framework-orange" >
+- <img alt="Static Badge" src="https://img.shields.io/badge/github-repo-blue?logo=github" >
+</p>
+<p>
  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="100">
  <img alt="MySQL Logo icon" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcR5U16C8yXgBpl7-Bc7Itjx3_LRl425zINA&s" lazy="loaded"  height="100"> 
  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
