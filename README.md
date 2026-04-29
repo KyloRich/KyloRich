@@ -15,9 +15,10 @@
 </p>
 <p>
  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="100">
- <img alt="MySQL Logo icon" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcR5U16C8yXgBpl7-Bc7Itjx3_LRl425zINA&s" lazy="loaded"  height="100"> 
  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwuqWn7rCVhqZ_pSlxwVUzlZtFWaOMdbm28A&s" height="100"> 
  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="100">
+ <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" height="100">
  <img src="https://thumbs.dreamstime.com/b/agile-icon-methodology-vector-development-scrum-flexible-software-logo-concept-206202942.jpg" height="100">
  <img id="details-enlarged-image" class="js-search-result-thumbnail responsive-img" src="https://as2.ftcdn.net/jpg/03/22/95/69/500_F_322956978_9ESBVewTYdhSu9G6qf2JazX9tUsdh53g.jpg" height="100" >
 </p>
